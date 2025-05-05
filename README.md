@@ -12,12 +12,12 @@ A modern weather interface built with Next.js and Tailwind CSS, featuring real-t
 ## 🎥 Screenshots
 ### Home Page
 
-![image alt](https://github.com/333IAN/WEATHER-APPLICATION/blob/main/homepage.png?raw=true)
+https://github.com/333IAN/WEATHER-APPLICATION/blob/main/homepage.png?raw=true
 
 
 ###Dashboard View
 
-![image alt](https://github.com/333IAN/WEATHER-APPLICATION/blob/fc9f4621e73a96d9a939a2f0245e85b38106346b/dashboard.png)
+https://github.com/333IAN/WEATHER-APPLICATION/blob/fc9f4621e73a96d9a939a2f0245e85b38106346b/dashboard.png
 
 
 ## ✨ Features
