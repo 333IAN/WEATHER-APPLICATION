@@ -12,11 +12,11 @@ A modern weather interface built with Next.js and Tailwind CSS, featuring real-t
 ## 🎥 Screenshots
 ### Home Page
 
-![Home Page](./assets/homepage.png)
+![Home Page](./images/homepage.png)
 
 ###Dashboard View
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./images/dashboard.png)
 
 ## ✨ Features
 
@@ -42,7 +42,7 @@ A modern weather interface built with Next.js and Tailwind CSS, featuring real-t
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/333IAN/weather-app-frontend.git
+git clone https://github.com/333IAN/WEATHER-APPLICATION.git
 cd weather-app-frontend
 ```
 
