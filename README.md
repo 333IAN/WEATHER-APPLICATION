@@ -3,9 +3,10 @@ Here's a frontend-focused README for my weather application:
 ```markdown
 # Weather App - Frontend
 
-[![Next.js](https://img.shields.io/badge/Next.js-13.4+-000000?logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS]((https://img.shields.io/badge/Tailwind_CSS-3.3+-06B6D4?logo=tailwind-css)](https://tailwindcss.com/))
+[![Next.js](https://img.shields.io/badge/Next.js-13.4+-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3+-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
 
 A modern weather interface built with Next.js and Tailwind CSS, featuring real-time data visualization and responsive design.
 
