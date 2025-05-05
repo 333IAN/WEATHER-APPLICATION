@@ -12,12 +12,12 @@ A modern weather interface built with Next.js and Tailwind CSS, featuring real-t
 ## 🎥 Screenshots
 ### Home Page view
 
-![Homepage](images/homepage.png)
+![Homepage](/homepage.png)
 
 
 ### Dashboard View
 
-![Dashboard](images/dashboard.png)
+![Dashboard](/dashboard.png)
 
 
 ## ✨ Features
