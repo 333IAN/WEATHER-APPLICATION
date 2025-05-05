@@ -1,6 +1,6 @@
 Here's a frontend-focused README for my weather application:
 
-markdown
+
 ### Weather App - Frontend
 
 [![Next.js](https://img.shields.io/badge/Next.js-13.4+-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
